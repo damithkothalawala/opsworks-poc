@@ -4,6 +4,5 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <html>
 <body>
 ALP POC Site
-<?php echo system('hostname'); ?>
 </body>
 </html>
